@@ -1,0 +1,11 @@
+# python and pyinstaller files
+__pycache__/
+build/
+dist/
+.venv/
+*.spec
+
+# test files
+*.json
+*.zip
+*.csv
